@@ -1,2 +1,9 @@
 # Previsao-do-Tempo
-Projeto Web de previsão do tempo com "HTML, CSS e JS"
+
+Aplicação Web de "Previsão do Tempo" com consulta em tempo real.
+
+Feito com HTML, CSS e Javascript.
+
+
+![Print previsao tempo](https://github.com/nicolasvictorsg/Previsao-do-Tempo/assets/114248340/919de6ba-b311-49fe-8f0b-80facd78fa10)
+
